@@ -1,0 +1,11 @@
+# ninja log v5
+1	301	1575651560	com.github.ccm27.search@exe/src/Application.c	8a0da3221ec495bc
+301	593	1575651560	com.github.ccm27.search@exe/meson-generated_src_Application.c.o	c216e318ad46f298
+595	888	1575651560	com.github.ccm27.search	6ce1338ade5ed
+2	251	0	meson-install	9bd7faa9472bf40f
+0	245	0	meson-uninstall	cc991f1d37a0db31
+2	290	0	meson-install	9bd7faa9472bf40f
+5	289	1575694505	com.github.ccm27.search@exe/src/Application.c	8a0da3221ec495bc
+289	575	1575694506	com.github.ccm27.search@exe/meson-generated_src_Application.c.o	c216e318ad46f298
+575	866	1575694506	com.github.ccm27.search	6ce1338ade5ed
+2	261	0	meson-install	9bd7faa9472bf40f

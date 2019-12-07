@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Search
+GenericName=Elementary Search App
+Comment=an elementary search app
+Categories=Network;Office;Utility;
+Exec=com.github.ccm27.search
+Icon=system-search
+Terminal=false
+Type=Application
+Keywords=Search;Browser;
